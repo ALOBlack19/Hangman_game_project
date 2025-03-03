@@ -1,4 +1,4 @@
-from function_hangman import *
+from functions_hangman import *
 
 while True:
     user_category = category_menu()
